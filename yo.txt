@@ -2,3 +2,11 @@
 2...
 3. no rich
 3.rich
+git branch
+git branch rich
+git checkout rich
+[rich] 
+(edit rich branch cotent...)
+git checkout master
+[master]
+git merge rich
